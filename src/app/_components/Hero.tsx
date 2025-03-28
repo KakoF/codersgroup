@@ -12,6 +12,7 @@ export default function Hero() {
                     alt='background'
                     className='object-cover opacity-40'
                     fill
+                    quality={100}
                     sizes='100vw'
                     priority
                 />
