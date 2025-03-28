@@ -3,7 +3,8 @@
 		"description": "Language"
 	},
 	"Hero": {
-		"title": "<oders_group />"
+		"title": "<oders_group />",
+		"subtitle": "Subtitle"
 	},
 	"About": {
 		"name": "About Us",
@@ -33,5 +34,8 @@
 				"description": "Commitment to deadlines and quality"
 			}
 		]
+	},
+	"Contact": {
+		"name": "Contact"
 	}
 }

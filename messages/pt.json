@@ -3,7 +3,8 @@
     "description": "Idioma"
   },
   "Hero": {
-    "title": "<oders_group />"
+    "title": "<oders_group />",
+    "subtitle": "Subtitulo"
   },
   "About": {
     "name": "Sobre Nós",
@@ -33,5 +34,8 @@
         "description": "Consultoria em tecnologia"
       }
     ]
+  },
+  "Contact": {
+    "name": "Contato"
   }
 }

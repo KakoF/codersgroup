@@ -1,7 +1,9 @@
+import { useTranslations } from 'next-intl';
 export default function About() {
+    const t = useTranslations('Contact');
     return (
         <div>
-            <p>Contato</p>
+            <p>{t('name')}</p>
         </div>
     );
 }
