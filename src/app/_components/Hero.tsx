@@ -17,9 +17,9 @@ export default function Hero() {
                     priority
                 />
                 <div className='flex flex-col items-center justify-start'>
-                    <h1 className="relative pt-8 text-white text-5xl font-bold">Codersgroup</h1>
+                    <h1 className="relative pt-8 text-white text-5xl font-bold">Coders Group</h1>
                     <p className="relative text-white pt-3">
-                        <p>{t('subtitle')}</p>
+                        {t('subtitle')}
                     </p>
                 </div>
 

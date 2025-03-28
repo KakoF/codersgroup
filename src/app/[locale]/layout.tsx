@@ -11,8 +11,8 @@ const comfortaa = Comfortaa({
 });
 
 export const metadata: Metadata = {
-  title: "Codersgroup",
-  description: "Codersgroup",
+  title: "Coders Group",
+  description: "Coders Group",
 };
 
 
