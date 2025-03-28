@@ -1,5 +1,37 @@
 {
-    "Hero": {
-        "title": "Hello hero!"
-    }
+	"Locale": {
+		"description": "Language"
+	},
+	"Hero": {
+		"title": "<oders_group />"
+	},
+	"About": {
+		"name": "About Us",
+		"description": "We are a group of developers passionate about technology and innovation. Our mission is to transform ideas into high-quality digital solutions, creating value for our clients and users",
+		"items": [
+			{
+				"description": "Website and app development"
+			},
+			{
+				"description": "Custom software solutions"
+			},
+			{
+				"description": "Technology consulting"
+			}
+		]
+	},
+	"Services": {
+		"name": "Services",
+		"items": [
+			{
+				"description": "Experience with diverse modern technologies"
+			},
+			{
+				"description": "Collaborative approach focused on client needs"
+			},
+			{
+				"description": "Commitment to deadlines and quality"
+			}
+		]
+	}
 }

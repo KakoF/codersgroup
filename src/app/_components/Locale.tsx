@@ -1,10 +1,9 @@
 import { useTranslations } from 'next-intl';
-
 export default function Hero() {
-    const t = useTranslations('Hero');
+    const t = useTranslations('Locale');
     return (
         <div>
-            <h1>{t('title')}</h1>
+            <p>{t('description')}</p>
         </div>
     );
 }

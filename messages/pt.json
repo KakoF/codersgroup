@@ -1,5 +1,37 @@
 {
-    "Hero": {
-        "title": "Olá hero!"
-    }
+  "Locale": {
+    "description": "Idioma"
+  },
+  "Hero": {
+    "title": "<oders_group />"
+  },
+  "About": {
+    "name": "Sobre Nós",
+    "description": "Somos um grupo de desenvolvedores apaixonados por tecnologia e inovação. Nossa missão é transformar ideias em soluções digitais de alta qualidade, criando valor para nossos clientes e usuários",
+    "items": [
+      {
+        "description": "Desenvolvimento de websites e aplicativos"
+      },
+      {
+        "description": "Soluções personalizadas de software"
+      },
+      {
+        "description": "Consultoria em tecnologia"
+      }
+    ]
+  },
+  "Services": {
+    "name": "Serviços",
+    "items": [
+      {
+        "description": "Desenvolvimento de websites e aplicativos"
+      },
+      {
+        "description": "Soluções personalizadas de software"
+      },
+      {
+        "description": "Consultoria em tecnologia"
+      }
+    ]
+  }
 }
